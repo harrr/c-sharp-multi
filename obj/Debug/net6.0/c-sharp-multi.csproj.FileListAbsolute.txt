@@ -1,0 +1,15 @@
+/home/alina/Documents/C-Sharp/c-sharp-multi/bin/Debug/net6.0/c-sharp-multi
+/home/alina/Documents/C-Sharp/c-sharp-multi/bin/Debug/net6.0/c-sharp-multi.deps.json
+/home/alina/Documents/C-Sharp/c-sharp-multi/bin/Debug/net6.0/c-sharp-multi.runtimeconfig.json
+/home/alina/Documents/C-Sharp/c-sharp-multi/bin/Debug/net6.0/c-sharp-multi.dll
+/home/alina/Documents/C-Sharp/c-sharp-multi/bin/Debug/net6.0/ref/c-sharp-multi.dll
+/home/alina/Documents/C-Sharp/c-sharp-multi/bin/Debug/net6.0/c-sharp-multi.pdb
+/home/alina/Documents/C-Sharp/c-sharp-multi/obj/Debug/net6.0/c-sharp-multi.csproj.AssemblyReference.cache
+/home/alina/Documents/C-Sharp/c-sharp-multi/obj/Debug/net6.0/c-sharp-multi.GeneratedMSBuildEditorConfig.editorconfig
+/home/alina/Documents/C-Sharp/c-sharp-multi/obj/Debug/net6.0/c-sharp-multi.AssemblyInfoInputs.cache
+/home/alina/Documents/C-Sharp/c-sharp-multi/obj/Debug/net6.0/c-sharp-multi.AssemblyInfo.cs
+/home/alina/Documents/C-Sharp/c-sharp-multi/obj/Debug/net6.0/c-sharp-multi.csproj.CoreCompileInputs.cache
+/home/alina/Documents/C-Sharp/c-sharp-multi/obj/Debug/net6.0/c-sharp-multi.dll
+/home/alina/Documents/C-Sharp/c-sharp-multi/obj/Debug/net6.0/ref/c-sharp-multi.dll
+/home/alina/Documents/C-Sharp/c-sharp-multi/obj/Debug/net6.0/c-sharp-multi.pdb
+/home/alina/Documents/C-Sharp/c-sharp-multi/obj/Debug/net6.0/c-sharp-multi.genruntimeconfig.cache
